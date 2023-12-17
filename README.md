@@ -19,7 +19,7 @@ This repository contains a basic calculator application written in [language of 
 2. Run the calculator application:
 
    ```bash
-   python calculator.py  # or the appropriate command for your language
+   Html Calculator.html # or the appropriate command for your language
    ```
 
 ## Features
