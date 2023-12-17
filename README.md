@@ -1,3 +1,4 @@
+![Alt Text](tenor.gif)
 Certainly! Here's a simple README.MD of calculator 
 
 ```markdown
