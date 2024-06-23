@@ -6,22 +6,7 @@ Certainly! Here's a simple README.MD of calculator
 
 ## Description
 
-This repository contains a basic calculator application written in [language of your choice]. It performs standard arithmetic operations.
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/calculator.git
-   cd calculator
-   ```
-
-2. Run the calculator application:
-
-   ```bash
-   Html Calculator.html # or the appropriate command for your language
-   ```
+This repository contains a basic calculator application written in [language of your choice].
 
 ## Features
 
@@ -56,6 +41,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Icons made by [Aayush sonkar] from www.flaticon.com.
-- Inspired by [Me].
-```
+
 
