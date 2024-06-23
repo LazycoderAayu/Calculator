@@ -1,5 +1,7 @@
 # Calculator
 
+![image](https://static.vecteezy.com/system/resources/previews/006/876/522/non_2x/calculator-witn-coins-card-and-banknote-3d-banner-with-copy-space-vector.jpg)
+
 ## Description
 
 This repository contains a basic calculator application written in [language of your choice].
