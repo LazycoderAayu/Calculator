@@ -1,7 +1,3 @@
-
-Certainly! Here's a simple README.MD of calculator 
-
-```markdown
 # Calculator
 
 ## Description
@@ -22,6 +18,10 @@ This repository contains a basic calculator application written in [language of 
 3. Select the operation (+, -, *, /).
 4. Input the second number.
 5. Press the equals (=) button to view the result.
+
+## web's screenshot
+![image](https://github.com/LazycoderAayu/Calculator/assets/153844634/59f05761-e51d-430d-88a9-9cf533b44351)
+
 
 ## Contributing
 
